@@ -12,7 +12,7 @@ Role   Role description                           Technical assignment descripti
 3      Mission Operations Coordinator             MMP Payload Transport, Retention & Landing-Marker Deployment System                                               Savannah, GA
 5      Mechanical Design Coordinator              Hazard Detection & Scanning Physical System                                                                       Mobile, AL
 9      Navigation & Localization Coordinator      Navigation & Localization System                                           cbassler04-lgtm                        Breese, IL
-10     Controls & Autonomy Engineer               Vehicle Motion Control & Autonomy System                                                                          Portland, OR
+10     Controls & Autonomy Engineer               Vehicle Motion Control & Autonomy System                                   23gracehanvey                                                                      Alhambra, IL
 14     Embedded Systems Engineer                  Common Vehicle Controller, I/O & Electronics Packaging System                                                     Missoula, MT
 13     Power Systems Coordinator                  Vehicle Electrical Power System                                                                                   Charleston, SC
 12     Communications Systems Coordinator         Field Communications Network                                                                                      Fort Wayne, IN
