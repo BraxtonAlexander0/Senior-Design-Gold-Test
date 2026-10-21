@@ -1,5 +1,5 @@
 Role   Role description                           Technical assignment description                                        GitHub username                           Hometown
-1      Team Leader                                Common Sweeper/MMP Mobility Platform                                                                              Des Moines, IA
+1      Team Leader                                Common Sweeper/MMP Mobility Platform                                     jkowalczik0                              Metropolis, IL
 6      Mobility Systems Engineer                  Sweeper/MMP Drivetrain & Terrain Mobility                                                                         Spokane, WA
 2      Systems Integration Coordinator            MCO/RRO High-Mobility Platform                                                                                    Raleigh, NC
 20     Cost & Logistics Coordinator               MCO Acquisition, Retention & Transport System                                                                     Eugene, OR
